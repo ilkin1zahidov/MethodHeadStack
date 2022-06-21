@@ -1,0 +1,14 @@
+C:\Users\Windows\source\repos\MethodHeadStack\bin\Debug\netcoreapp3.1\MethodHeadStack.exe
+C:\Users\Windows\source\repos\MethodHeadStack\bin\Debug\netcoreapp3.1\MethodHeadStack.deps.json
+C:\Users\Windows\source\repos\MethodHeadStack\bin\Debug\netcoreapp3.1\MethodHeadStack.runtimeconfig.json
+C:\Users\Windows\source\repos\MethodHeadStack\bin\Debug\netcoreapp3.1\MethodHeadStack.runtimeconfig.dev.json
+C:\Users\Windows\source\repos\MethodHeadStack\bin\Debug\netcoreapp3.1\MethodHeadStack.dll
+C:\Users\Windows\source\repos\MethodHeadStack\bin\Debug\netcoreapp3.1\MethodHeadStack.pdb
+C:\Users\Windows\source\repos\MethodHeadStack\obj\Debug\netcoreapp3.1\MethodHeadStack.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\MethodHeadStack\obj\Debug\netcoreapp3.1\MethodHeadStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\MethodHeadStack\obj\Debug\netcoreapp3.1\MethodHeadStack.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\MethodHeadStack\obj\Debug\netcoreapp3.1\MethodHeadStack.AssemblyInfo.cs
+C:\Users\Windows\source\repos\MethodHeadStack\obj\Debug\netcoreapp3.1\MethodHeadStack.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\MethodHeadStack\obj\Debug\netcoreapp3.1\MethodHeadStack.dll
+C:\Users\Windows\source\repos\MethodHeadStack\obj\Debug\netcoreapp3.1\MethodHeadStack.pdb
+C:\Users\Windows\source\repos\MethodHeadStack\obj\Debug\netcoreapp3.1\MethodHeadStack.genruntimeconfig.cache
